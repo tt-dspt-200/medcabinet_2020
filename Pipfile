@@ -8,6 +8,7 @@ panda = "*"
 fastapi = "*"
 gunicorn = "*"
 plotly = "*"
+uvicorn = "*"
 
 [dev-packages]
 flake8 = "*"
